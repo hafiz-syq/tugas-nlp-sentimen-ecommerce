@@ -1,0 +1,7 @@
+numpy>=2.0
+pandas>=2.2
+matplotlib>=3.8
+nltk>=3.9
+Sastrawi>=1.0.1
+notebook>=7.0
+ipykernel>=6.29
